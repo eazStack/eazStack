@@ -1,5 +1,5 @@
 ## Hello Devs 👋
-- I'm a Full-Stack Software Engineer 👨‍💻
+- I'm a Full-Stack Software Engineer👨‍💻
 - Lives in India 🇮🇳
 - Knows Beginner-Level Languages 👍
   
