@@ -1,5 +1,7 @@
-## Hi there 👋
-- I'm a Full-Stack Software Engineer!
+## Hello Devs 👋
+- I'm a Full-Stack Software Engineer 👨‍💻
+- Lives in India 🇮🇳
+- Knows Beginner-Level Languages 👍
   
 ### Stats ⚡
 ![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=eazStack&show_icons=true&theme=transparent)
